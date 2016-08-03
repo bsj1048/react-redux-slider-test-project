@@ -1,6 +1,13 @@
 # react-redux-slider-test-project
 Image slider written in React using React-Redux and ES2015 notation. A test project.
 
+## Slider features:
+
+1. Has left/right arrows to change slides manually
+2. Changes slides every 10 seconds
+3. Stops auto sliding on mouse hover and starts it again on mouse out
+4. Restarts auto sliding when manually changing the slides using left/right arrows
+
 ## To run the project:
 
 1. Clone the repository
@@ -11,8 +18,8 @@ Image slider written in React using React-Redux and ES2015 notation. A test proj
 
 1. Node
 2. React
-2. React-Redux
-3. ES2015 notation
-4. Babel (incl. Babel Polyfill)
-5. Webpack
-6. Bootstrap
+3. React-Redux
+4. ES2015 notation
+5. Babel (incl. Babel Polyfill)
+6. Webpack
+7. Bootstrap
